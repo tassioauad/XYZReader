@@ -11,14 +11,7 @@
                     "endOffset": 119
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 233,
-                        "endColumn": 68,
-                        "endOffset": 297
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -30,14 +23,7 @@
                     "endOffset": 189
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 302,
-                        "endColumn": 69,
-                        "endOffset": 367
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -49,14 +35,7 @@
                     "endOffset": 263
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 372,
-                        "endColumn": 73,
-                        "endOffset": 441
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -68,14 +47,7 @@
                     "endOffset": 339
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 446,
-                        "endColumn": 75,
-                        "endOffset": 517
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -87,14 +59,7 @@
                     "endOffset": 398
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 700,
-                        "endColumn": 58,
-                        "endOffset": 754
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -106,14 +71,7 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 937,
-                        "endColumn": 70,
-                        "endOffset": 1003
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -125,14 +83,7 @@
                     "endOffset": 537
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1008,
-                        "endColumn": 67,
-                        "endOffset": 1071
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
@@ -140,27 +91,104 @@
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 542,
-                    "endColumn": 56,
-                    "endOffset": 594
+                    "endColumn": 69,
+                    "endOffset": 607
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 325,
-                        "endColumn": 56,
-                        "endOffset": 377
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 599,
+                    "startOffset": 612,
+                    "endColumn": 70,
+                    "endOffset": 678
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 683,
+                    "endColumn": 71,
+                    "endOffset": 750
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 755,
+                    "endColumn": 57,
+                    "endOffset": 808
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 813,
+                    "endColumn": 57,
+                    "endOffset": 866
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 871,
+                    "endColumn": 105,
+                    "endOffset": 972
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 977,
+                    "endColumn": 63,
+                    "endOffset": 1036
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1041,
+                    "endColumn": 56,
+                    "endOffset": 1093
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1098,
                     "endColumn": 52,
-                    "endOffset": 647
+                    "endOffset": 1146
                 },
                 "from": {
                     "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
@@ -175,173 +203,135 @@
             },
             {
                 "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 652,
-                    "endColumn": 54,
-                    "endOffset": 702
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 88,
-                        "endColumn": 54,
-                        "endOffset": 138
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 707,
-                    "endColumn": 56,
-                    "endOffset": 759
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 143,
-                        "endColumn": 56,
-                        "endOffset": 195
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 764,
-                    "endColumn": 65,
-                    "endOffset": 825
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 259,
-                        "endColumn": 65,
-                        "endOffset": 320
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 830,
-                    "endColumn": 58,
-                    "endOffset": 884
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 200,
-                        "endColumn": 58,
-                        "endOffset": 254
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 889,
-                    "endColumn": 51,
-                    "endOffset": 936
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 51,
-                        "endOffset": 83
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 941,
-                    "endColumn": 53,
-                    "endOffset": 990
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 36,
-                        "endColumn": 53,
-                        "endOffset": 85
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 995,
-                    "endColumn": 41,
-                    "endOffset": 1032
-                },
-                "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 238,
-                        "endColumn": 41,
-                        "endOffset": 275
-                    }
-                }
-            },
-            {
-                "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1037,
-                    "endColumn": 94,
-                    "endOffset": 1127
+                    "startOffset": 1151,
+                    "endColumn": 54,
+                    "endOffset": 1201
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 143,
-                        "endColumn": 94,
-                        "endOffset": 233
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1132,
-                    "endColumn": 54,
-                    "endOffset": 1182
+                    "startOffset": 1206,
+                    "endColumn": 56,
+                    "endOffset": 1258
                 },
                 "from": {
-                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1076,
-                        "endColumn": 54,
-                        "endOffset": 1126
-                    }
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1263,
+                    "endColumn": 65,
+                    "endOffset": 1324
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1329,
+                    "endColumn": 58,
+                    "endOffset": 1383
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1388,
+                    "endColumn": 51,
+                    "endOffset": 1435
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/macro_layout.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1440,
+                    "endColumn": 53,
+                    "endOffset": 1489
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1494,
+                    "endColumn": 41,
+                    "endOffset": 1531
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1536,
+                    "endColumn": 94,
+                    "endOffset": 1626
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/src/main/res/values-sw600dp/dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1631,
+                    "endColumn": 54,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 62,
+                    "endOffset": 1744
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1749,
+                    "endLine": 31,
+                    "endColumn": 12,
+                    "endOffset": 1926
+                },
+                "from": {
+                    "file": "/home/auad/Project/XYZ Reader/XYZReader/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values-sw600dp/values-sw600dp.xml"
                 }
             }
         ]
